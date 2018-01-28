@@ -17,8 +17,8 @@ num_res = 3; # number of reolutions available
 
 max_size = 0.4; # Maximum ammount of height and width that should be used
 
-Window.SetBackgroundTopColor (0,173, 0, 0.118);
-Window.SetBackgroundBottomColor (0,173, 0, 0.118);
+Window.SetBackgroundTopColor (0.173, 0, 0.118);
+Window.SetBackgroundBottomColor (0.173, 0, 0.118);
 #----------------------------------------- End Configuration --------------------------------
 
 fun random_array (max)
