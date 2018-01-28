@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Splatter Ubuntu
+Description=Splatter the Ubuntu logo on the screen.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/splatter-ubuntu
+ScriptFile=/usr/share/plymouth/themes/splatter-ubuntu/splatter.script
